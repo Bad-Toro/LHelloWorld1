@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld1</string>
+    <string name="button">Button</string>
+    <string name="hellow">Hello World!</string>
+    <string name="thisString" translatable="false">this string</string>
+    <string name="key">My Key</string>
 </resources>
